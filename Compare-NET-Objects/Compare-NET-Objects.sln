@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare-NET-Objects", "Compare-NET-Objects\Compare-NET-Objects.csproj", "{E261D783-29E2-4A01-A07A-A90FCEBD69BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroNunitTests", "IntroNunitTests\IntroNunitTests.csproj", "{5585646A-91F7-40E8-A553-C9611313DA75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E261D783-29E2-4A01-A07A-A90FCEBD69BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E261D783-29E2-4A01-A07A-A90FCEBD69BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E261D783-29E2-4A01-A07A-A90FCEBD69BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E261D783-29E2-4A01-A07A-A90FCEBD69BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5585646A-91F7-40E8-A553-C9611313DA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5585646A-91F7-40E8-A553-C9611313DA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5585646A-91F7-40E8-A553-C9611313DA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5585646A-91F7-40E8-A553-C9611313DA75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
